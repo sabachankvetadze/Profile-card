@@ -1,0 +1,149 @@
+body{
+  padding: 173px;
+  background-color: #19A1AE;
+ }
+.background-image{
+height: 140px;
+width: auto;
+  background-image: url(/images/bg-pattern-card.svg);
+  border: 15px;
+  background-repeat: no-repeat;
+  border-radius: 15px 15px 0px 0px;
+}
+
+.main{
+  height: 374px;
+width: 350px;
+border-radius: 15px;
+margin:auto;
+text-align: center;
+background-color: #F2F2F2;
+
+}
+.victor{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.number{
+ margin-left: 8.5px;
+ font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+color: #6B7082;
+}
+.crest{
+  font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+}
+.k{
+display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 46px;
+}
+.k1{
+  font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+color: #2E3349;
+}
+.followers{
+  font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+text-align: center;
+letter-spacing: 1.5px;
+color: #6B7082;
+margin-top: -14px;
+}
+.k803{
+  font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+color: #2E3349;
+}
+.likes{
+font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+text-align: center;
+letter-spacing: 1.5px;
+color: #6B7082;
+margin-top: -14px;
+}
+.k14{
+  font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+color: #2E3349;
+}
+.photos{
+  font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+text-align: center;
+letter-spacing: 1.5px;
+color: #6B7082;
+margin-top: -14px;
+}
+.likes1{
+  margin-left: 110px;
+  margin-top: -66px;}
+  .photo1{ margin-left: 220px; 
+    margin-top: -66px; }
+.avatar{
+  margin-top:-48px; 
+  border-radius: 100%;
+  border: 5px solid #FFFFFF;
+  }
+  .london{
+  margin-top: -24px;
+  font-family: 'Kumbh Sans';
+  font-weight: 400; 
+  font-size: 14px;
+  line-height: 17px;
+  color: #6B7082;
+  }
+.bc0{
+  width: 972px;
+  height: 976px;
+  position: absolute;
+  bottom: -650px;
+  right: -410px;
+  z-index: -1;
+}
+.bc1{
+  width: 972px;
+  height: 976px;
+  position: absolute;
+  top: -488px;
+  left: -386px;
+  z-index: -1;
+  }
+  .line{
+  height: 1px;
+  width: 350px;
+  color: #E8E9EC;
+  background-color: #E8E9EC;
+  }
